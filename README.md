@@ -2,9 +2,7 @@
 
 This analysis provides insights into customer reviews of my favourite brunch restaurant located in central Madrid. By examining customer feedback, my aim is to identify key areas of satisfaction and improvement opportunities to enhance the dining experience and strengthen the restaurant’s position in a competitive market.
 
-In this readme along the document is provided the python code used for processing the ununstructured data of reviews that allowed to get the different charts analyzed along the document. Some conclutions and recommendations from a business analysis perspective are provided at the end of the document.  
-
-- **Disclaimer** Some code provided in this analysis has been developed with chatgpt's assistance.
+In this readme along the document is provided the python code used for processing the ununstructured data of reviews that allowed to get the different charts analyzed along the document. Some conclutions and recommendations from a business analysis perspective, in order to improve business performance, are provided at the end of the document. **Disclaimer** Some code provided in this analysis has been developed with chatgpt's assistance.
 
 ---
 
